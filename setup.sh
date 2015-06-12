@@ -24,6 +24,7 @@ apt-get -y install xfce4
 # Install ubuntu software center
 
 apt-get -y install software-center
+apt-get -y install synaptic
 
 # Install x2goserver
 
