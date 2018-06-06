@@ -23,7 +23,7 @@ sudo apt-get -y install synaptic
 
 # Install x2goserver
 
-sudo apt-get -y install x2goserver*
+sudo apt-get -y install x2goserver
 
 # Start x2goserver
 
